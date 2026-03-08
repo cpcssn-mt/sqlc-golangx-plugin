@@ -1,4 +1,4 @@
-module github.com/sqlc-dev/sqlc-gen-go
+module github.com/cpcssn-mt/sqlc-golangx-plugin
 
 go 1.21.3
 
